@@ -31,5 +31,5 @@ public class View {
 		
 		//Exibir o valor da parcela do seguro em 3x
 		double parcela = gol.calcularParcelas(30);
-		System.out.println("O valor da parcela do seguro (3x); " + parcela)
+		System.out.println("O valor da parcela do seguro (3x); "da+ parcela)
 }
